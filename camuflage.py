@@ -76,7 +76,7 @@ red.start((reddc/2.55))   #start red led
 green.start((greendc/2.55)) #start green led
 blue.start((bluedc/2.55))  #start blue led
 
-time.sleep(10)
+time.sleep(20)
 
 red.stop()   #stop red led
 green.stop() #stop green led
